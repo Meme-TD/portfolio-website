@@ -1,4 +1,4 @@
-# CS Portfolio Website
+# Marcus Ling Portfolio Website
 
 Simple static site that links and describes three GitHub-ready demo projects.
 
